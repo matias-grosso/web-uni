@@ -1,7 +1,7 @@
 <?php
 	//CONNESSIONE DATABASE
 	define("nome_host", "localhost");
-	define("nome_db", "my_matiasgrosso");
-	define("nomeutente_db", "matiasgrosso");
+	define("nome_db", "");
+	define("nomeutente_db", "");
 	define("password_db", "");
 ?>
